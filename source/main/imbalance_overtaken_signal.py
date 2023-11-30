@@ -293,12 +293,12 @@ def imb_overtake_trading_signal(ticker,exchange,timeframe):
 
 
   
-import time
-while True:
-  ticker_list=["HK33HKD","GBPJPY","EURUSD","USDJPY","AUDUSD","XAUUSD"]
-  tf_list=["1"]#["1","5","15","1H","4H"]
-  for m in tf_list:
-    for t in ticker_list: 
-      imb_overtake_trading_signal(t,"OANDA",m) 
-  time.sleep(60)
+# import time
+# while True:
+#   ticker_list=["HK33HKD","GBPJPY","EURUSD","USDJPY","AUDUSD","XAUUSD"]
+#   tf_list=["1"]#["1","5","15","1H","4H"]
+#   for m in tf_list:
+#     for t in ticker_list: 
+#       imb_overtake_trading_signal(t,"OANDA",m) 
+#   time.sleep(60)
     

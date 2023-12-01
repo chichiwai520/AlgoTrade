@@ -1,0 +1,6 @@
+#Pre-installed library
+# pip install --upgrade mplfinance
+#!pip install --upgrade --no-cache-dir git+https://github.com/rongardF/tvdatafeed.git
+# pip install numpy
+#pip install pandas
+# pip install matpoltlib

@@ -1,4 +1,4 @@
-# AlgoTrade
+# AlgoTrade Alert
 Algo Trading - 
 Version 1.0
 1. Get live feed data from Trading View

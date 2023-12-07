@@ -7,7 +7,7 @@ Version 1.0
 4. GREEN Candles means Bullish Imbalance overtaken Bearlish Imbalance
 5. RED Candles means bearish Imbalance overtaken Bullish Imbalance
 6. Successfully detect 1mins signal by every 60 sec.
-To do list:
+#To do list:
 1. Detect Quasimodo
 2. Q+V to define the current direction
 3. Auto trade
